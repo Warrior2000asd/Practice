@@ -57,4 +57,3 @@ for i in range(1, Times):
     C.append((2/3)*100)
 plot.plot(V, Tl, V, WL)
 plot.show()
-print("Made by Arvin Mallahi")
